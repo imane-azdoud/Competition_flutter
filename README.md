@@ -1,6 +1,6 @@
 # Competition_flutter
 
-This is my Flutter project for the Competition exam.
+This is a Team Competition Flutter project.
 
 It contains the full source code, including all Dart files in the `lib` folder.
 
